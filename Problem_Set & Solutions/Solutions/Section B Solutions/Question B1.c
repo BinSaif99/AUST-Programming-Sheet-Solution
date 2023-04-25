@@ -1,3 +1,4 @@
+//section B starts from here
 #include <stdio.h>
 
 int main() {
