@@ -22,7 +22,7 @@ If you'd like to contribute to **AUST Programming Sheet Solution**, please follo
 - Solve the problem and add your solution to the appropriate folder with a descriptive filename.
 - Create a new Pull Request with a clear description of the problem and your solution.
 
-### We welcome all kinds of contributions, including bug fixes, feature requests, and code improvements.
+#### We welcome all kinds of contributions, including bug fixes, feature requests, and code improvements.
 
 ## License
 
